@@ -1,4 +1,6 @@
 clone repo - git clone [url]
 status - git status
+add file - git add [file path]
+basic commands thats
 
 
