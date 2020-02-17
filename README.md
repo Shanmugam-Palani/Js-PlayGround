@@ -1,2 +1,2 @@
-# Js-PlayGround
-Contains small java script games and fun projects
+# workout
+the place where i workout some basic stuffs and exercise
