@@ -1,0 +1,4 @@
+clone repo - git clone [url]
+status - git status
+
+
